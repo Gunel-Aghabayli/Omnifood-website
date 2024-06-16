@@ -1,0 +1,163 @@
+@media (max-width: 993px) {
+  .navbar button {
+    font-size: 15px;
+  }
+}
+@media (max-width: 878px) {
+  .navbar button {
+    font-size: 9px;
+  }
+}
+@media (max-width: 800px) {
+  .navbar button {
+    display: none;
+  }
+}
+@media (max-width: 987px) {
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 683px) {
+  .header h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 683px) {
+  .subheader p {
+    font-size: 16px;
+    text-align: center;
+  }
+}
+@media (max-width: 683px) {
+  .logo {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 1229px) {
+  .logos img {
+    width: 100px;
+    height: 30px;
+  }
+}
+@media (max-width: 1085px) {
+  .logos img {
+    width: 90px;
+    height: 20px;
+  }
+}
+@media (max-width: 950px) {
+  .logos img {
+    width: 70px;
+    height: 20px;
+  }
+}
+@media (max-width: 621px) {
+  .logos img {
+    width: 40px;
+    height: 20px;
+  }
+}
+@media (max-width: 485px) {
+  .logos img {
+    width: 30px;
+    height: 20px;
+  }
+}
+@media (max-width: 669px) {
+  .work h1 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 987px) {
+  .section-three {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 520px) {
+  .logos {
+    margin-left: 200px;
+  }
+}
+@media (max-width: 1279px) {
+  .container-meals {
+    display: flex;
+    flex-direction: row;
+  }
+}
+@media (max-width: 1200px) {
+  .container-meals {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+@media (max-width: 1200px) {
+  .testimonials {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+@media (max-width: 1128px) {
+  .vegetarian {
+    width: 330px;
+  }
+}
+@media (max-width: 1048px) {
+  .pricing {
+    display: flex;
+    flex-direction: column;
+  }
+  @media (max-width: 600px) {
+  }
+  .pricing h1 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 1100px) {
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+  }
+}
+@media (max-width: 1102px) {
+  .four-cols {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 1102px) {
+  .first-col {
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 1050px) {
+  .two-containers {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+/* @media (max-width:900px){
+    .form-image{
+        display: flex;
+        flex-direction: column;
+    }
+} */
+@media (max-width: 850px) {
+  .pricing {
+    width: 20px;
+  }
+}
+@media (max-width: 900px) {
+  .form-image {
+    width: 30%;
+    margin-left: 10px;
+  }
+}
